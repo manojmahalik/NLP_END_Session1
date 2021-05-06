@@ -1,4 +1,4 @@
-# NLP_END_Session1 Assignment
+# Session1 Assignment
 
 **1.What is a neural network neuron?**
 
